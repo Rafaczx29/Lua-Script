@@ -25,7 +25,7 @@ Character.Head.CustomPlayerTag.MinerRank.Text = "V.V.I.P 👑"
                             SellTreshold = getgenv().SellTreshold;
                         end
                         if not getgenv().Depth then
-                                                            Depth = 250
+                                                            Depth = 150
                         else
                             Depth = getgenv().Depth;
                         end
