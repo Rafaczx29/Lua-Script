@@ -21,7 +21,7 @@ Character.Head.CustomPlayerTag.MinerRank.Text = "V.V.I.P 👑"
                         local SellTreshold;
                         
                         if not getgenv().SellTreshold then
-                                                            SellTreshold = 100000
+                                                            SellTreshold = 150000
                         else
                             SellTreshold = getgenv().SellTreshold;
                         end
